@@ -1,0 +1,78 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"ALIEN-V",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Fake Call Cewek Japan",
+      "image":"file:///android_asset/japan.png",
+      "link":"https://play.google.com/store/apps/details?id=fakevideocall.kawai.japanese.girl.fakewacall"
+    },
+    {
+      "id":1,
+      "title":"Fake Call Cewek Cantik",
+      "image":"file:///android_asset/cewe.png",
+      "link":"https://play.google.com/store/apps/details?id=fakevideocall.kawai.japanese.girl.fakewacall"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Pocong Satu",
+      "image_url":"file:///android_asset/sp1.webp",
+      "video_url":"vcpo1",
+      "voice_url":"poco1.mp3"
+    },
+    {
+      "id":2,
+      "name":"Pocong Dua",
+      "image_url":"file:///android_asset/sp2.webp",
+      "video_url":"vcpo2",
+      "voice_url":"poco2.mp3"
+    },
+    {
+      "id":3,
+      "name":"Pocong Tiga",
+      "image_url":"file:///android_asset/sp3.webp",
+      "video_url":"vcpo3",
+      "voice_url":"poco3.mp3"
+    },
+    {
+      "id":4,
+      "name":"Pocong 4",
+      "image_url":"file:///android_asset/sp4.webp",
+      "video_url":"vcpo4",
+      "voice_url":"poco4.mp3"
+    }
+  ]
+
+}
