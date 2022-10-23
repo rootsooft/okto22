@@ -1,0 +1,132 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"ALIEN-V",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Sandrinna dan Rey Bong",
+      "image":"file:///android_asset/reybongdansandrinna.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.call.video.jendela_smp.Sandrinna_Michelle.dan.Rey_Bong.wulan.joko"
+    },
+	{
+      "id":2,
+      "title":"Naisa Alifia",
+      "image":"file:///android_asset/naisaalifia.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.video.call.dengan.naisa.alifia.yuriza.nay.terbaru.offline"
+    },
+    {
+      "id":3,
+      "title":"RIA RICIS",
+      "image":"file:///android_asset/riaricis.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.video.call.dengan.ria.ricis.full.offline.terbaru"
+    },
+    {
+      "id":4,
+      "title":"Habib Al Assegaf",
+      "image":"file:///android_asset/habibalwi.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.video.call.wa.habib.alwi.assegaf.offline"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Wahyu kadeo dan Dini 1",
+      "image_url":"file:///android_asset/wahyukadeogambar1.webp",
+      "video_url":"wahyukadeovideo1",
+      "voice_url":"wahyukadeosuara1.mp3"
+    },
+    {
+      "id":2,
+      "name":"Wahyu kadeo dan Dini 2",
+      "image_url":"file:///android_asset/wahyukadeogambar2.webp",
+      "video_url":"wahyukadeovideo2",
+      "voice_url":"wahyukadeosuara2.mp3"
+    },
+    {
+      "id":3,
+      "name":"Wahyu kadeo dan Dini 3",
+      "image_url":"file:///android_asset/wahyukadeogambar3.webp",
+      "video_url":"wahyukadeovideo3",
+      "voice_url":"wahyukadeosuara3.mp3"
+    },
+    {
+      "id":4,
+      "name":"Wahyu kadeo dan Dini 4",
+      "image_url":"file:///android_asset/wahyukadeogambar4.webp",
+      "video_url":"wahyukadeovideo4",
+      "voice_url":"wahyukadeosuara4.mp3"
+    },
+	{
+      "id":5,
+      "name":"Wahyu kadeo dan Dini 5",
+      "image_url":"file:///android_asset/wahyukadeogambar5.webp",
+      "video_url":"wahyukadeovideo5",
+      "voice_url":"wahyukadeosuara5.mp3"
+    },
+    {
+      "id":6,
+      "name":"Wahyu kadeo dan Dini 6",
+      "image_url":"file:///android_asset/wahyukadeogambar6.webp",
+      "video_url":"wahyukadeovideo1",
+      "voice_url":"wahyukadeosuara1.mp3"
+    },
+    {
+      "id":7,
+      "name":"Wahyu kadeo dan Dini 7",
+      "image_url":"file:///android_asset/wahyukadeogambar7.webp",
+      "video_url":"wahyukadeovideo2",
+      "voice_url":"wahyukadeosuara2.mp3"
+    },
+    {
+      "id":8,
+      "name":"Wahyu kadeo dan Dini 8",
+      "image_url":"file:///android_asset/wahyukadeogambar8.webp",
+      "video_url":"wahyukadeovideo3",
+      "voice_url":"wahyukadeosuara3.mp3"
+    },
+    {
+      "id":9,
+      "name":"Wahyu kadeo dan Dini 9",
+      "image_url":"file:///android_asset/wahyukadeogambar9.webp",
+      "video_url":"wahyukadeovideo4",
+      "voice_url":"wahyukadeosuara4.mp3"
+    },
+    {
+      "id":10,
+      "name":"Wahyu kadeo dan Dini 10",
+      "image_url":"file:///android_asset/wahyukadeogambar10.webp",
+      "video_url":"wahyukadeovideo5",
+      "voice_url":"wahyukadeosuara5.mp3"
+    }
+  ]
+
+}
