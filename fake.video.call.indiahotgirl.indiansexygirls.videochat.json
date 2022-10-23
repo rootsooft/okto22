@@ -1,0 +1,114 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"ALIEN-V",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Japanese Girl Fake Video Call",
+      "image":"file:///android_asset/japan.png",
+      "link":"https://play.google.com/store/apps/details?id=fakevideocall.kawai.japanese.girl.fakewacall"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"India Sexy Girl 1",
+      "image_url":"file:///android_asset/indijp1.webp",
+      "video_url":"indigirl1",
+      "voice_url":"suarag1.mp3"
+    },
+    {
+      "id":2,
+      "name":"India Sexy Girl 2",
+      "image_url":"file:///android_asset/indijp2.webp",
+      "video_url":"indigirl2",
+      "voice_url":"suarag2.mp3"
+    },
+    {
+      "id":3,
+      "name":"India Sexy Girl 3",
+      "image_url":"file:///android_asset/indijp3.webp",
+      "video_url":"indigirl3",
+      "voice_url":"suarag3.mp3"
+    },
+    {
+      "id":4,
+      "name":"India Sexy Girl 4",
+      "image_url":"file:///android_asset/indijp4.webp",
+      "video_url":"indigirl4",
+      "voice_url":"suarag4.mp3"
+    },
+	{
+      "id":5,
+      "name":"India Sexy Girl 5",
+      "image_url":"file:///android_asset/indijp5.webp",
+      "video_url":"indigirl5",
+      "voice_url":"suarag5.mp3"
+    },
+    {
+      "id":6,
+      "name":"India Sexy Girl 6",
+      "image_url":"file:///android_asset/indijp6.webp",
+      "video_url":"indigirl6",
+      "voice_url":"suarag6.mp3"
+    },
+    {
+      "id":7,
+      "name":"India Sexy Girl 7",
+      "image_url":"file:///android_asset/indijp7.webp",
+      "video_url":"indigirl7",
+      "voice_url":"suarag7.mp3"
+    },
+    {
+      "id":8,
+      "name":"India Sexy Girl 8",
+      "image_url":"file:///android_asset/indijp8.webp",
+      "video_url":"indigirl8",
+      "voice_url":"suarag8.mp3"
+    },
+    {
+      "id":9,
+      "name":"India Sexy Girl 9",
+      "image_url":"file:///android_asset/indijp9.webp",
+      "video_url":"indigirl9",
+      "voice_url":"suarag9.mp3"
+    },
+    {
+      "id":10,
+      "name":"India Sexy Girl 10",
+      "image_url":"file:///android_asset/indijp10.webp",
+      "video_url":"indigirl10",
+      "voice_url":"suarag10.mp3"
+    }
+  ]
+
+}
