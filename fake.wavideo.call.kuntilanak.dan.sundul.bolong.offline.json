@@ -1,0 +1,86 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"ALIEN-V",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Prank Video Call Sama Pocong",
+      "image":"file:///android_asset/pocong.png",
+      "link":"https://play.google.com/store/apps/details?id=prank.wavideo.call.dengan.pocong.offline"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Kuntilanak",
+      "image_url":"file:///android_asset/sd1.webp",
+      "video_url":"kunti1",
+      "voice_url":"horo.mp3"
+    },
+    {
+      "id":2,
+      "name":"Sundul Bolong Satu",
+      "image_url":"file:///android_asset/sd2.webp",
+      "video_url":"kunti2",
+      "voice_url":"horo.mp3"
+    },
+    {
+      "id":3,
+      "name":"Kuntilanak Dua",
+      "image_url":"file:///android_asset/sd3.webp",
+      "video_url":"kunti3",
+      "voice_url":"horo.mp3"
+    },
+    {
+      "id":4,
+      "name":"Sundul Bolong Dua",
+      "image_url":"file:///android_asset/sd4.webp",
+      "video_url":"kunti4",
+      "voice_url":"horo.mp3"
+    },
+    {
+      "id":5,
+      "name":"Kuntilanak Tiga",
+      "image_url":"file:///android_asset/sd5.webp",
+      "video_url":"kunti5",
+      "voice_url":"horo.mp3"
+    },
+    {
+      "id":6,
+      "name":"Sundul Bolong Tiga",
+      "image_url":"file:///android_asset/sd6.webp",
+      "video_url":"kunti6",
+      "voice_url":"horo.mp3"
+    }
+  ]
+
+}
