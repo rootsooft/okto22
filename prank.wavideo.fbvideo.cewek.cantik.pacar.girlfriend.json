@@ -1,0 +1,129 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"ALIEN-V",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"ARYA SAlAKO",
+      "image":"file:///android_asset/aldebaran.png",
+      "link":"https://play.google.com/store/apps/details?id=prank.wavideocall.arya.saloka.aldebaran.offline"
+    },
+	{
+      "id":2,
+      "title":"Naisa Alifia",
+      "image":"file:///android_asset/naisaalifia.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.video.call.dengan.naisa.alifia.yuriza.nay.terbaru.offline"
+    },
+	{
+      "id":3,
+      "title":"AMANDA MANOPO",
+      "image":"file:///android_asset/manopo.png",
+      "link":"https://play.google.com/store/apps/details?id=prank.video.call.amanda.manopo.full.offline"
+    },
+    {
+      "id":4,
+      "title":"RIA RICIS",
+      "image":"file:///android_asset/riaricis.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.video.call.dengan.ria.ricis.full.offline.terbaru"
+    },
+    {
+      "id":5,
+      "title":"SULE",
+      "image":"file:///android_asset/sule.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.video.call.dengan.ferdinan.sule.terbaru.offline"
+    },
+    {
+      "id":6,
+      "title":"AYU TING TING",
+      "image":"file:///android_asset/ayu.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.call.wavideo.dengan.ayu.ting.ting.terbaru.offline"
+    },
+    {
+      "id":7,
+      "title":"Habib Al Assegaf",
+      "image":"file:///android_asset/habibalwi.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.video.call.wa.habib.alwi.assegaf.offline"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Cewek Satu",
+      "image_url":"file:///android_asset/mine1.webp",
+      "video_url":"footbal1",
+      "voice_url":"cwk1.mp3"
+    },
+    {
+      "id":2,
+      "name":"Cewek Dua",
+      "image_url":"file:///android_asset/mine2.webp",
+      "video_url":"footbal2",
+      "voice_url":"cwk2.mp3"
+    },
+    {
+      "id":3,
+      "name":"Cewek Tiga",
+      "image_url":"file:///android_asset/mine3.webp",
+      "video_url":"footbal3",
+      "voice_url":"cwk3.mp3"
+    },
+    {
+      "id":4,
+      "name":"Cewek Empat",
+      "image_url":"file:///android_asset/mine4.webp",
+      "video_url":"footbal4",
+      "voice_url":"cwk4.mp3"
+    },
+    {
+      "id":5,
+      "name":"Ceewek Lima",
+      "image_url":"file:///android_asset/mine5.webp",
+      "video_url":"footbal5",
+      "voice_url":"cwk5.mp3"
+    },
+    {
+      "id":6,
+      "name":"Cewek Enam",
+      "image_url":"file:///android_asset/mine6.webp",
+      "video_url":"footbal6",
+      "voice_url":"cwk6.mp3"
+    },
+    {
+      "id":7,
+      "name":"Cewek Tujuh",
+      "image_url":"file:///android_asset/mine7.webp",
+      "video_url":"footbal7",
+      "voice_url":"cwk7.mp3"
+    }
+  ]
+
+}
