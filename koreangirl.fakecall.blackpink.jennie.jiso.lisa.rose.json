@@ -1,0 +1,112 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"ALIEN-V",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Japanese Girl Fake Video Call",
+      "image":"file:///android_asset/jp.png",
+      "link":"https://play.google.com/store/apps/details?id=fakevideocall.kawai.japanese.girl.fakewacall"
+    },
+    {
+      "id":2,
+      "title":"Fake Call Girl",
+      "image":"file:///android_asset/logon.png",
+      "link":"https://play.google.com/store/apps/details?id=prank.wavideo.fbvideo.cewek.cantik.pacar.girlfriend"
+    },
+    {
+      "id":3,
+      "title":"India Fake Call Girl",
+      "image":"file:///android_asset/india.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.video.call.indiahotgirl.indiansexygirls.videochat"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Lisa",
+      "image_url":"file:///android_asset/lisa1.png",
+      "video_url":"koreangirl1",
+      "voice_url":"korean1.mp3"
+    },
+    {
+      "id":2,
+      "name":"Rose",
+      "image_url":"file:///android_asset/rose1.png",
+      "video_url":"koreangirl2",
+      "voice_url":"korean2.mp3"
+    },
+    {
+      "id":3,
+      "name":"Jennie",
+      "image_url":"file:///android_asset/jeniie1.png",
+      "video_url":"koreangirl3",
+      "voice_url":"korean3.mp3"
+    },
+    {
+      "id":4,
+      "name":"Jiso",
+      "image_url":"file:///android_asset/jiso1.png",
+      "video_url":"koreangirl4",
+      "voice_url":"korean4.mp3"
+    },
+	{
+      "id":5,
+      "name":"Lisa",
+      "image_url":"file:///android_asset/lisa2.png",
+      "video_url":"koreangirl1",
+      "voice_url":"korean1.mp3"
+    },
+    {
+      "id":6,
+      "name":"Rose",
+      "image_url":"file:///android_asset/rose2.png",
+      "video_url":"koreangirl2",
+      "voice_url":"korean2.mp3"
+    },
+    {
+      "id":7,
+      "name":"Jennie",
+      "image_url":"file:///android_asset/jennie2.png",
+      "video_url":"koreangirl3",
+      "voice_url":"korean3.mp3"
+    },
+    {
+      "id":8,
+      "name":"Jiso",
+      "image_url":"file:///android_asset/jiso2.png",
+      "video_url":"koreangirl4",
+      "voice_url":"korean4.mp3"
+    }
+  ]
+
+}
