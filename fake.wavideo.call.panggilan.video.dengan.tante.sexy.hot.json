@@ -1,0 +1,115 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"ALIEN-V",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"ARYA SAlAKO",
+      "image":"file:///android_asset/aldebaran.png",
+      "link":"https://play.google.com/store/apps/details?id=prank.wavideocall.arya.saloka.aldebaran.offline"
+    },
+	{
+      "id":2,
+      "title":"Cewek Cantik",
+      "image":"file:///android_asset/prankistri.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.wavideo.call.prank.istri.video.call.sama.cewek.cantik"
+    },
+	{
+      "id":3,
+      "title":"AMANDA MANOPO",
+      "image":"file:///android_asset/manopo.png",
+      "link":"https://play.google.com/store/apps/details?id=prank.video.call.amanda.manopo.full.offline"
+    },
+    {
+      "id":4,
+      "title":"RIA RICIS",
+      "image":"file:///android_asset/riaricis.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.video.call.dengan.ria.ricis.full.offline.terbaru"
+    },
+    {
+      "id":5,
+      "title":"SULE",
+      "image":"file:///android_asset/sule.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.video.call.dengan.ferdinan.sule.terbaru.offline"
+    },
+    {
+      "id":6,
+      "title":"AYU TING TING",
+      "image":"file:///android_asset/ayu.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.call.wavideo.dengan.ayu.ting.ting.terbaru.offline"
+    },
+    {
+      "id":7,
+      "title":"Cewek Japan",
+      "image":"file:///android_asset/japnesegirl.png",
+      "link":"https://play.google.com/store/apps/details?id=fakevideocall.kawai.japanese.girl.fakewacall"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Tante Satu",
+      "image_url":"file:///android_asset/Screenshot_1.png",
+      "video_url":"tantecurhattahanlamadiranjangsuara1",
+      "voice_url":"tantecurhattahanlamadiranjangsuara.mp3"
+    },
+    {
+      "id":2,
+      "name":"Tante Dua",
+      "image_url":"file:///android_asset/Screenshot_2.png",
+      "video_url":"tantecurhattahanlamadiranjangsuara2",
+      "voice_url":"tantecurhattahanlamadiranjangsuara.mp3"
+    },
+    {
+      "id":3,
+      "name":"Tante Tiga",
+      "image_url":"file:///android_asset/Screenshot_3.png",
+      "video_url":"tantecurhattahanlamadiranjangsuara3",
+      "voice_url":"tantecurhattahanlamadiranjangsuara.mp3"
+    },
+    {
+      "id":4,
+      "name":"Tante Empat",
+      "image_url":"file:///android_asset/Screenshot_4.png",
+      "video_url":"tantecurhattahanlamadiranjangsuara4",
+      "voice_url":"tantecurhattahanlamadiranjangsuara.mp3"
+    },
+	{
+      "id":5,
+      "name":"Tante 5",
+      "image_url":"file:///android_asset/Screenshot_5.png",
+      "video_url":"tantecurhattahanlamadiranjangsuara5",
+      "voice_url":"tantecurhattahanlamadiranjangsuara.mp3"
+    }
+  ]
+
+}
