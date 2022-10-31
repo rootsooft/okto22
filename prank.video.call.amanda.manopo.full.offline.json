@@ -1,0 +1,118 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"ALIEN-V",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"ARYA SAlAKO",
+      "image":"file:///android_asset/aldebaran.png",
+      "link":"https://play.google.com/store/apps/details?id=prank.wavideocall.arya.saloka.aldebaran.offline"
+    },
+	{
+      "id":2,
+      "title":"Japanese Girl Fake Video Call",
+      "image":"file:///android_asset/jp.png",
+      "link":"https://play.google.com/store/apps/details?id=fakevideocall.kawai.japanese.girl.fakewacall"
+    },
+    {
+      "id":3,
+      "title":"Fake Call Girl",
+      "image":"file:///android_asset/logon.png",
+      "link":"https://play.google.com/store/apps/details?id=prank.wavideo.fbvideo.cewek.cantik.pacar.girlfriend"
+    },
+    {
+      "id":4,
+      "title":"India Fake Call Girl",
+      "image":"file:///android_asset/india.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.video.call.indiahotgirl.indiansexygirls.videochat"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Amanda Manopo 1",
+      "image_url":"file:///android_asset/manopo1.png",
+      "video_url":"amandam1",
+      "voice_url":"amandamptre1.mp3"
+    },
+    {
+      "id":2,
+      "name":"Amanda Manopo 2",
+      "image_url":"file:///android_asset/manopo2.png",
+      "video_url":"amandam2",
+      "voice_url":"amandamptre2.mp3"
+    },
+    {
+      "id":3,
+      "name":"Amanda Manopo 3",
+      "image_url":"file:///android_asset/manopo3.png",
+      "video_url":"amandam3",
+      "voice_url":"amandamptre3.mp3"
+    },
+    {
+      "id":4,
+      "name":"Amanda Manopo 4",
+      "image_url":"file:///android_asset/manopo4.png",
+      "video_url":"amandam4",
+      "voice_url":"amandamptre4.mp3"
+    },
+	{
+      "id":5,
+      "name":"Amanda Manopo 5",
+      "image_url":"file:///android_asset/manopo5.png",
+      "video_url":"amandam1",
+      "voice_url":"amandamptre1.mp3"
+    },
+    {
+      "id":6,
+      "name":"Amanda Manopo 6",
+      "image_url":"file:///android_asset/manopo6.png",
+      "video_url":"amandam2",
+      "voice_url":"amandamptre2.mp3"
+    },
+    {
+      "id":7,
+      "name":"Amanda Manopo 7",
+      "image_url":"file:///android_asset/manopo7.png",
+      "video_url":"amandam3",
+      "voice_url":"amandamptre3.mp3"
+    },
+    {
+      "id":8,
+      "name":"Amanda Manopo 8",
+      "image_url":"file:///android_asset/manopo8.png",
+      "video_url":"amandam4",
+      "voice_url":"amandamptre4.mp3"
+    }
+  ]
+
+}
