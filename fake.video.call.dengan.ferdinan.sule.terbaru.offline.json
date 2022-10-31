@@ -1,0 +1,112 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"ALIEN-V",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"ARYA SAlAKO",
+      "image":"file:///android_asset/aldebaran.png",
+      "link":"https://play.google.com/store/apps/details?id=prank.wavideocall.arya.saloka.aldebaran.offline"
+    },
+	{
+      "id":2,
+      "title":"Amanda Manopo",
+      "image":"file:///android_asset/manopo.png",
+      "link":"https://play.google.com/store/apps/details?id=prank.video.call.amanda.manopo.full.offline"
+    },
+    {
+      "id":3,
+      "title":"Ria Ricis",
+      "image":"file:///android_asset/riaricis.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.video.call.dengan.ria.ricis.full.offline.terbaru"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Ferdinan Sule 1",
+      "image_url":"file:///android_asset/gambarsule1.png",
+      "video_url":"suleavideoo1",
+      "voice_url":"sulesuaraa1.mp3"
+    },
+    {
+      "id":2,
+      "name":"Ferdinan Sule 2",
+      "image_url":"file:///android_asset/gambarsule2.png",
+      "video_url":"suleavideoo2",
+      "voice_url":"sulesuaraa2.mp3"
+    },
+    {
+      "id":3,
+      "name":"Ferdinan Sule 3",
+      "image_url":"file:///android_asset/gambarsule3.png",
+      "video_url":"suleavideoo3",
+      "voice_url":"sulesuaraa3.mp3"
+    },
+    {
+      "id":4,
+      "name":"Ferdinan Sule 4",
+      "image_url":"file:///android_asset/gambarsule4.png",
+      "video_url":"suleavideoo4",
+      "voice_url":"sulesuaraa4.mp3"
+    },
+	{
+      "id":5,
+      "name":"Ferdinan Sule 5",
+      "image_url":"file:///android_asset/gambarsule5.png",
+      "video_url":"suleavideoo5",
+      "voice_url":"sulesuaraa5.mp3"
+    },
+    {
+      "id":6,
+      "name":"Ferdinan Sule 6",
+      "image_url":"file:///android_asset/gambarsule6.png",
+      "video_url":"suleavideoo6",
+      "voice_url":"sulesuaraa6.mp3"
+    },
+    {
+      "id":7,
+      "name":"Ferdinan Sule 7",
+      "image_url":"file:///android_asset/gambarsule7.png",
+      "video_url":"suleavideoo1",
+      "voice_url":"sulesuaraa1.mp3"
+    },
+    {
+      "id":8,
+      "name":"Ferdinan Sule 8",
+      "image_url":"file:///android_asset/gambarsule8.png",
+      "video_url":"suleavideoo2",
+      "voice_url":"sulesuaraa2.mp3"
+    }
+  ]
+
+}
