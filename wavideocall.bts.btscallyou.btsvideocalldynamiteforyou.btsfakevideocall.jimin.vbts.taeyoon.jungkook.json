@@ -1,0 +1,117 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"ALIEN-V",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"ARYA SAlAKO",
+      "image":"file:///android_asset/aldebaran.png",
+      "link":"https://play.google.com/store/apps/details?id=prank.wavideocall.arya.saloka.aldebaran.offline"
+    },
+    {
+      "id":2,
+      "title":"AMANDA MANOPO",
+      "image":"file:///android_asset/manopo.png",
+      "link":"https://play.google.com/store/apps/details?id=prank.video.call.amanda.manopo.full.offline"
+    },
+    {
+      "id":3,
+      "title":"RIA RICIS",
+      "image":"file:///android_asset/riaricis.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.video.call.dengan.ria.ricis.full.offline.terbaru"
+    },
+    {
+      "id":4,
+      "title":"SULE",
+      "image":"file:///android_asset/sule.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.video.call.dengan.ferdinan.sule.terbaru.offline"
+    },
+    {
+      "id":5,
+      "title":"AYU TING TING",
+      "image":"file:///android_asset/ayu.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.call.wavideo.dengan.ayu.ting.ting.terbaru.offline"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"J Hope Bts",
+      "image_url":"file:///android_asset/btscallyoujhope.webp",
+      "video_url":"jhope",
+      "voice_url":"jhope.mp3"
+    },
+    {
+      "id":2,
+      "name":"Jimin Bts",
+      "image_url":"file:///android_asset/btscallyoujimin.webp",
+      "video_url":"jamal",
+      "voice_url":"jimin.mp3"
+    },
+    {
+      "id":3,
+      "name":"Jin Bts",
+      "image_url":"file:///android_asset/btscallyoujin.webp",
+      "video_url":"jin",
+      "voice_url":"jin.mp3"
+    },
+    {
+      "id":4,
+      "name":"Jungkook Bts",
+      "image_url":"file:///android_asset/btscallyoujungkook.webp",
+      "video_url":"jembut",
+      "voice_url":"jungkook.mp3"
+    },
+    {
+      "id":5,
+      "name":"RM Bts",
+      "image_url":"file:///android_asset/btscallyourm.webp",
+      "video_url":"rmbts",
+      "voice_url":"rmbts.mp3"
+    },
+    {
+      "id":6,
+      "name":"Suga Bts",
+      "image_url":"file:///android_asset/btscallyousuga.webp",
+      "video_url":"suga",
+      "voice_url":"suga.mp3"
+    },
+    {
+      "id":7,
+      "name":"Taehyeoon Bts",
+      "image_url":"file:///android_asset/btscallyoutahyeeon.webp",
+      "video_url":"taehyeoon",
+      "voice_url":"taehyeoon.mp3"
+    }
+  ]
+
+}
