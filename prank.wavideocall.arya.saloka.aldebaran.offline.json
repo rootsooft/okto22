@@ -1,0 +1,85 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"ALIEN-V",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ikatan Cinta",
+      "image":"file:///android_asset/ikatancinta.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.video.call.ikatan.cinta.amanda.manopo.arya.saloka.andi.aldebaran"
+    },
+	{
+      "id":2,
+      "title":"Amanda Manopo",
+      "image":"file:///android_asset/amanda.png",
+      "link":"https://play.google.com/store/apps/details?id=prank.video.call.amanda.manopo.full.offline"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Arya Saloka Aldebaran 1",
+      "image_url":"file:///android_asset/abs1.webp",
+      "video_url":"aryav1",
+      "voice_url":"alde1.mp3"
+    },
+    {
+      "id":2,
+      "name":"Arya Saloka Aldebaran 2",
+      "image_url":"file:///android_asset/abs2.webp",
+      "video_url":"aryav2",
+      "voice_url":"alde2.mp3"
+    },
+    {
+      "id":3,
+      "name":"Arya Saloka Aldebaran 3",
+      "image_url":"file:///android_asset/abs3.webp",
+      "video_url":"aryav3",
+      "voice_url":"alde3.mp3"
+    },
+    {
+      "id":4,
+      "name":"Arya Saloka Aldebaran 4",
+      "image_url":"file:///android_asset/abs4.webp",
+      "video_url":"aryav4",
+      "voice_url":"alde4.mp3"
+    },
+    {
+      "id":5,
+      "name":"Arya Saloka Aldebaran 5",
+      "image_url":"file:///android_asset/abs5.webp",
+      "video_url":"aryav5",
+      "voice_url":"alde5.mp3"
+    }
+  ]
+
+}
