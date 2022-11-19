@@ -4,7 +4,7 @@
      "select_main_ads": "ADMOB",
       "select_backup_ads":"ALIEN-V",
       "main_ads_banner": "ca-app-pub-9676953921795368/6992979339",
-      "main_ads_intertitial":"ca-app-pub-9676953921795368/2410079950",
+      "main_ads_intertitial":"ca-app-pub-9676953921795368/2410079950x",
       "main_ads_natives":"ca-app-pub-9676953921795368/5530233164",
       "main_ads_rewards":"ca-app-pub-9676953921795368/4373966147",
       "backup_ads_natives":"",
