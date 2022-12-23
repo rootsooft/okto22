@@ -3,7 +3,7 @@
       {
      "select_main_ads": "ADMOB",
       "select_backup_ads":"ALIEN-V",
-      "main_ads_banner": "ca-app-pub-9676953921795368/8494665248",
+      "main_ads_banner":"ca-app-pub-9676953921795368/8494665248",
       "main_ads_intertitial":"ca-app-pub-9676953921795368/4866179914",
       "main_ads_natives":"ca-app-pub-9676953921795368/2876588628",
       "main_ads_rewards":"ca-app-pub-9676953921795368/3998098606",
