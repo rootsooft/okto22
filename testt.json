@@ -1,0 +1,166 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "admob_native":"",
+      "backup_admob_native":"",
+      "backup_ads_banner":"",
+      "backup_ads_inter":"",
+      "main_ads_rewards":"",
+      "backup_ads_rewards":"",
+
+      "open_ads_admob": "",
+      "switch_open_ads": "1",
+
+      "survey_api_key":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "username":"rysasahrial99",
+      "dasboard_name":"supercar",
+      "dasboard_name2":"Nature",
+      "dasboard_name3":"Animal",
+      "dasboard_name4":"null",
+      "dasboard_name5":"null",
+      "dasboard_name6":"null",
+      "dasboard_name7":"null",
+      "dasboard_name8":"null",
+      "dasboard_name9":"null",
+      "dasboard_name10":"null"
+    }
+  ],
+
+  "More":
+  [
+{
+  "More": [
+    {
+      "id":1,
+      "title":"Japanese Girl Fake Video Call",
+      "image":"file:///android_asset/japan.png",
+      "link":"https://play.google.com/store/apps/details?id=fakevideocall.kawai.japanese.girl.fakewacall"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Mr. Kim",
+      "image_url": "file:///android_asset/image/indijp1.webp",
+      "video_url": "footbal",
+      "voice_url": "dosa_membawa_keburukan.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Kim Seok Jin",
+      "image_url": "file:///android_asset/image/indijp2.webp",
+      "video_url": "footbal",
+      "voice_url": "dosa_membawa_keburukan.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Jeon Jungkook",
+      "image_url": "file:///android_asset/image/indijp3.webp",
+      "video_url": "https://aliendro.id/uploads/demo/fakecall/flower.mov",
+      "voice_url": "https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Jimin",
+      "image_url": "file:///android_asset/image/indijp4.webp",
+      "video_url": "https://aliendro.id/uploads/demo/fakecall/flower3.mov",
+      "voice_url": "https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Suga",
+      "image_url": "file:///android_asset/image/indijp5.webp",
+      "video_url": "footbal",
+      "voice_url": "https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
+    },
+    {
+      "id": 5,
+      "name": "V BTS",
+      "image_url": "file:///android_asset/image/indijp6.webp",
+      "video_url": "https://aliendro.id/uploads/demo/fakecall/flower.mov",
+      "voice_url": "https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
+    },
+    {
+      "id": 6,
+      "name": "J Hope",
+      "image_url": "file:///android_asset/image/indijp7.webp",
+      "video_url": "https://aliendro.id/uploads/demo/fakecall/flower3.mov",
+      "voice_url": "dosa_membawa_keburukan.mp3"
+    },
+    {
+      "id": 7,
+      "name": "RM BTS",
+      "image_url": "file:///android_asset/image/indijp8.webp",
+      "video_url": "https://aliendro.id/uploads/demo/fakecall/flower3.mov",
+      "voice_url": "dosa_membawa_keburukan.mp3"
+    },
+    {
+      "id": 8,
+      "name": "J Hope",
+      "image_url": "file:///android_asset/image/indijp9.webp",
+      "video_url": "https://aliendro.id/uploads/demo/fakecall/flower3.mov",
+      "voice_url": "dosa_membawa_keburukan.mp3"
+    },
+    {
+      "id": 9,
+      "name": "RM BTS",
+      "image_url": "file:///android_asset/image/indijp10.webp",
+      "video_url": "https://aliendro.id/uploads/demo/fakecall/flower3.mov",
+      "voice_url": "dosa_membawa_keburukan.mp3"
+    }
+  ],
+
+"Contact":
+[
+  {
+    "id":1,
+    "title":"luky_cute",
+    "description":"Cikoneng Unity Empire",
+    "image":"http://aliendro.id/uploads/YTAPP/luki.jpg",
+    "videoid":"https://aliendro.id/uploads/demo/chatboot/footbal.mov"
+  },
+  {
+  "id":2,
+  "title":"sofan_dianto",
+  "description":"Nano Studio",
+  "image":"http://aliendro.id/uploads/YTAPP/sofan.jpg",
+  "videoid":"https://aliendro.id/uploads/demo/chatboot/flower.mov"
+  },
+  {
+    "id":3,
+    "title":"henry_jie",
+    "description":"Motivator Kuli Panggul",
+    "image":"http://aliendro.id/uploads/YTAPP/henri.jpg",
+    "videoid":"https://aliendro.id/uploads/demo/chatboot/footbal.mov"
+  },
+  {
+  "id":4,
+  "title":"mr_kim",
+  "description":"Reskin Aliendroid",
+  "image":"file:///android_asset/13.jpeg",
+  "videoid":"https://aliendro.id/uploads/demo/chatboot/flower3.mov"
+},
+  {
+  "id":4,
+  "title":"young_fahmi_lex",
+  "description":"Wakil Ketua Umum IMNU",
+  "image":"file:///android_asset/alienboot/image/fahmi.jpg",
+  "videoid":"https://aliendro.id/uploads/demo/chatboot/footbal.mov"
+}
+]
+
+}
